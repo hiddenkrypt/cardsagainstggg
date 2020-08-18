@@ -1,0 +1,19 @@
+{
+  "name": "cardsagainstggg",
+  "version": "1.0.0",
+  "description": "tts card generator for ggg card deck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiddenkrypt/cardsagainstggg.git"
+  },
+  "author": "ada",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/hiddenkrypt/cardsagainstggg/issues"
+  },
+  "homepage": "https://github.com/hiddenkrypt/cardsagainstggg#readme"
+}
